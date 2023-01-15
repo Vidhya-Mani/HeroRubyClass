@@ -1,0 +1,2 @@
+module BloguserHelper
+end
